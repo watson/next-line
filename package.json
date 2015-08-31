@@ -1,6 +1,6 @@
 {
   "name": "next-line",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Iterator over lines in a string",
   "main": "index.js",
   "scripts": {
@@ -30,5 +30,9 @@
   "devDependencies": {
     "standard": "^5.1.1",
     "tape": "^4.2.0"
-  }
+  },
+  "coordinates": [
+    55.6773916,
+    12.5819853
+  ]
 }
