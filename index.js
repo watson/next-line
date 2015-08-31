@@ -2,6 +2,7 @@
 
 module.exports = function (str) {
   var offset = 0
+  str = str.toString()
 
   return iterator
 
